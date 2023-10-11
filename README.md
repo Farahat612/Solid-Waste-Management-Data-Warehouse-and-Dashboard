@@ -38,8 +38,7 @@ Before starting the project, ensure you have the following:
 - `Dashboard/`: Generated dashboard in both `PNG` and `PDF` format.
 - `datasets/`: Sample data files in CSV format.
 - `results/`: Screenshots of SQL queries and charts.
-- `sqlCommands.sql`: SQL script for creating database tables and queries
-- `documentation.md`: This project documentation.
+- `sqlCommands.sql`: SQL script for creating database tables and queries.
 
 
 ## Database Schema
